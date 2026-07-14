@@ -8,13 +8,14 @@
 
 const App = () =>{
   return(
-    <div>
+    //use instead of <div>
+    <>                 
     <div id ='parent'>
       <h1 id='child1'>Hello</h1>
       <h2 id='child2'>Hi</h2>
     </div>
     <div id="chach"></div>
-    </div>
+    </>
   )
 }
 

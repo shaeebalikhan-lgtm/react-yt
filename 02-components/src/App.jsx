@@ -19,7 +19,7 @@ import Card from "./components/Card.jsx"
 //   </div>
 //   )
 // }
-
+// components name must be always like this "Components"(first letter big)
 import Navbar from "./components/Navbar.jsx"
 const App = () => {
   return(
